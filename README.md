@@ -1,2 +1,0 @@
-# TestNode
-Created with CodeSandbox
